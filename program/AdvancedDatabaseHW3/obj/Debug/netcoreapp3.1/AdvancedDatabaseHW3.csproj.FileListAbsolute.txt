@@ -1,0 +1,13 @@
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\bin\Debug\netcoreapp3.1\AdvancedDatabaseHW3.exe
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\bin\Debug\netcoreapp3.1\AdvancedDatabaseHW3.deps.json
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\bin\Debug\netcoreapp3.1\AdvancedDatabaseHW3.runtimeconfig.json
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\bin\Debug\netcoreapp3.1\AdvancedDatabaseHW3.runtimeconfig.dev.json
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\bin\Debug\netcoreapp3.1\AdvancedDatabaseHW3.dll
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\bin\Debug\netcoreapp3.1\AdvancedDatabaseHW3.pdb
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\obj\Debug\netcoreapp3.1\AdvancedDatabaseHW3.csprojAssemblyReference.cache
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\obj\Debug\netcoreapp3.1\AdvancedDatabaseHW3.csproj.CoreCompileInputs.cache
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\obj\Debug\netcoreapp3.1\AdvancedDatabaseHW3.AssemblyInfoInputs.cache
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\obj\Debug\netcoreapp3.1\AdvancedDatabaseHW3.AssemblyInfo.cs
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\obj\Debug\netcoreapp3.1\AdvancedDatabaseHW3.dll
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\obj\Debug\netcoreapp3.1\AdvancedDatabaseHW3.pdb
+C:\Users\ITPardaz\source\repos\AdvancedDatabaseHW3\AdvancedDatabaseHW3\obj\Debug\netcoreapp3.1\AdvancedDatabaseHW3.genruntimeconfig.cache
